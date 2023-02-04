@@ -18,8 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Postdoctoral Researcher at Purdue University working with  [Prof Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/). Before this, I worked for a year on Program Analysis for JS with [Prof Frank Tip](http://www.franktip.org/). I did my PhD dissertation on _verifying behavioral properties of complex programs_ at [Indian Institute of Science, India](https://www.csa.iisc.ac.in/) under the guidance of [Prof. Y. N. Srikant](https://drona.csa.iisc.ac.in/~srikant/).
+  
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am interested in developing techniques and tools to help developers build reliable, secure and efficient Software. In this context, I am especially interested in building program analysis and verification tools, designing programming languages, and developing automated program synthesis techniques for programs with effects, dynamic features and asynchronous semantics.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Recently, I have worked on developing a component-based program synthesis tool (**Cobalt**) to synthesize 
+correct programs using effectful libraries. Previously, I have worked on designing a domain-specific language (**Morpheus**) with support for rich refinement types to reason about the correctness of effectful Parser Combinator programs. Before that, I also developed static and dynamic program analysis techniques for Android (**AsyncDroid**) and Javascript programs (**Stubbifier**).  
