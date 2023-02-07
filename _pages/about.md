@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Postdoc@Purdue PL, Verification, Synthesis.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: dp.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office: 3154C, Dept. of Computer Science,</p>
+    <p>Purdue University,</p>
+    <p>West Lafayette, IN 47907</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

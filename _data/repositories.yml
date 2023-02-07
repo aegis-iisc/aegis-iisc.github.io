@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
-
+  - aegis-iisc
+ 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - aegis-iisc/propsynth
+  - aegis-iisc/effsynth
+  

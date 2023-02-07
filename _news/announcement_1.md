@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+#title: The Stubbifier (Journal of Empirical Software Engineering) paper is accepted at ICSE' 23, Journal-first track.
+date: 2023-01-31 
 inline: true
 ---
 
-A simple inline announcement.
+The Stubbifier (Journal of Empirical Software Engineering) paper is also accepted at ICSE' 23, Journal-first track.

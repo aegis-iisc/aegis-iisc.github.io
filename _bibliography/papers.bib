@@ -1,84 +1,121 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
 
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation,},
-  preview={brownian-motion.gif}
+@inproceedings{morpheus,
+  title={Morpheus: Automated Safety Verification of Data-dependent Parser Combinator Program},
+  author={Ashish Mishra and Suresh Jagannathan},
+  booktitle = {Under Submission, Arxiv},
+
+  year={2021},
+  abbr = {ArXiv}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics,},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers,}
+
+@article{cobalt,
+author = {Mishra, A and Jagannathan, Suresh},
+title = {Specification-Guided Component-Based Synthesis from Effectful Libraries},
+year = {2022},
+issue_date = {October 2022},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {6},
+number = {OOPSLA2},
+url = {https://doi.org/10.1145/3563310},
+doi = {10.1145/3563310},
+abstract = {Component-based synthesis seeks to build programs using the APIs provided by a set of libraries. Oftentimes, these APIs have effects, which make it challenging to reason about the correctness of potential synthesis candidates. This is because changes to global state made by effectful library procedures affect how they may be composed together, yielding an intractably large search space that can confound typical enumerative synthesis techniques. If the nature of these effects are exposed as part of their specification, however, deductive synthesis approaches can be used to help guide the search for components. In this paper, we present a new specification-guided synthesis procedure that uses Hoare-style pre- and post-conditions to express fine-grained effects of potential library component candidates to drive a bi-directional synthesis search strategy. The procedure alternates between a forward search process that seeks to build larger terms given an existing context but which is otherwise unaware of the actual goal, alongside a backward search mechanism that seeks terms consistent with the desired goal but which is otherwise unaware of the context from which these terms must be synthesized. To further improve efficiency and scalability, we integrate a conflict-driven learning procedure into the synthesis algorithm that provides a semantic characterization of previously encountered unsuccessful search paths that is used to prune the space of possible candidates as synthesis proceeds. We have implemented our ideas in a tool called and demonstrate its effectiveness on a number of challenging synthesis problems defined over OCaml libraries equipped with effectful specifications.},
+journal = {Proc. ACM Program. Lang.},
+month = {oct},
+articleno = {147},
+numpages = {30},
+keywords = {Type Specifications, Conflict-Driven Learning, Effects, Component-based Synthesis},
+pdf  = {OOPSLA23.pdf},
+arxiv = {2209.02752v1},
+selected = {true},
+abbr = {OOPSLA' 22}
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.,},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  selected={true}
+@article{stubbifier,
+author = {Turcotte, Alexi and Arteca, Ellen and Mishra, Ashish and Alimadadi, Saba and Tip, Frank},
+title = {Stubbifier: Debloating Dynamic Server-Side JavaScript Applications},
+year = {2022},
+issue_date = {Dec 2022},
+publisher = {Kluwer Academic Publishers},
+address = {USA},
+volume = {27},
+number = {7},
+issn = {1382-3256},
+url = {https://doi.org/10.1007/s10664-022-10195-6},
+doi = {10.1007/s10664-022-10195-6},
+abstract = {JavaScript is an increasingly popular language for server-side development, thanks in part to the Node.js runtime environment and its vast ecosystem of modules. With the Node.js package manager npm, users are able to easily include external modules as dependencies in their projects. However, npm installs modules with all of their functionality, even if only a fraction is needed, which causes an undue increase in code size. Eliminating this unused functionality from distributions is desirable, but the sound analysis required to find unused code is difficult due to JavaScript’s extreme dynamicity. We present a fully automatic technique that identifies unused code by constructing static or dynamic call graphs from the application’s tests, and replacing code deemed unreachable with either file- or function-level stubs. Due to JavaScript’s highly dynamic nature, call graph construction may suffer from unsoundness, i.e., code identified as unused may in fact be reachable. To handle such cases, if a stub is called, it will fetch and execute the original code on-demand to preserve the application’s behavior. The technique also provides an optional guarded execution mode to guard application against injection vulnerabilities in untested code that resulted from stub expansion. This technique is implemented in an open source tool called Stubbifier, designed to help package developers to produce a minimal production distribution. Stubbifier supports the ECMAScript 2019 standard. In an empirical evaluation on 15 Node.js applications and 75 clients of these applications, Stubbifier reduced application size by 56\% on average while incurring only minor performance overhead. The evaluation also shows that Stubbifier’s guarded execution mode is capable of preventing several known injection vulnerabilities that are manifested in stubbed-out code. Finally, Stubbifier can work alongside bundlers, popular JavaScript tools for bundling an application with its dependencies. For the considered subject applications, we measured an average size reduction of 37\% in bundled distributions.},
+journal = {Empirical Softw. Engg.},
+month = {sep},
+numpages = {36},
+pdf = {JESE.pdf},
+keywords = {Node.js, Debloating, JavaScript, Program analysis},
+selected = {true},
+abbr = {Journal of ESE}
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik,},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+@phdthesis{phdthesis,
+  author  = "Ashish Mishra",
+  title   = "Typestates and Beyond: Verifying Rich Behavioral Properties Over Complex Programs",
+  school  = "Indian Institute of Science",
+  journal = "Dissertation, IISc",
+  year    = "2018",
+  type    = "Doctoral Thesis",
+  address = "",
+  month   = "",
+  note    = "Dissertation, IISc",
+  annote  = "",
+  url = "https://doi.org/10.1007/s10664-022-10195-6",
+  abstract = {Statically verifying behavioral properties of programs is an important research problem. An efficient solution to this problem will have visible effects over multiple domains, ranging from program development, program debugging, program correction and verification, etc. Type systems are the most prevalently used static, light-weight verification systems for verifying certain properties of programs. Unfortunately, simple types are inadequate at verifying many behavioral/dynamic properties of programs. Typestates can tame this inadequacy of simple types by associating each type in a programming language with a state information. However, there are two major challenges in statically analyzing and verifying typestate properties over programs. The first challenge may be attributed to \increasing complexity of programs". The original work on typestates can only verify/analyze a typestate property over very simple programs which lacked dynamic memory allocation or aliasing. Subsequently, the following works on typestates extended and improvised the analysis over programs with aliasing and heaps. However, the state-of-the-art static typestate analysis works still cannot handle formidably rich programming features like asynchrony, library calls and callbacks, concurrency, etc. The second challenge may be attributed to \complexity of the property being verified". The original and the current notion of typestates can only verify a property de nable through a finite-state abstraction. This makes the state-of-the-art typestate analysis and verification works inadequate to verify useful but richer non-regular program properties. For example, using classical typestates we can verify a property like, \pop be called on a stack only after a push operation", but we cannot verify a non-regular program property like, \number of push operations should be at least equal to the number of pop operations". Currently, these behavioral properties are mostly verified/enforced by programmers at runtime via explicit checks. Unfortunately, these runtime checks are costly, error-prone, and lay an extra burden on the programmer. In this thesis we take small steps towards tackling both these challenges. Addressing complex program features, we present an asynchrony-aware static analysis, taking Android applications as our use case. Android applications have convoluted control flow, and complex features like asynchronous inter-component communications, library callbacks, Android enforced control flows (called as lifecycles), resource XMLs, which de ne and register event-handlers etc. Unfortunately, none of the available static analysis works for Android soundly captures all these features. We provide a formal semantics for Android asynchronous control flow, capturing these features. We use this semantics to introduce an intermediate program representation for Android applications, called the Android Inter-Component Control Flow Graph (AICCFG), and develop an asynchrony-aware interprocedural static analysis framework for Android applications. We use this framework to develop a static typestate analysis to capture Android resource API usage protocol violations. We present a set of benchmark applications for different resource types, and empirically compare our typestate analysis with the state-of-the-art synchronous static analyses for Android applications. Addressing the challenges associated with increasing complexity of properties, we present an expressive notion of typestates called, Parameterized typestates (p-typestates). p-typestates, associate an extra Pressburger de nable property along with states of regular typestates. This allows p-typestates to express many useful non-regular properties. We formally de ne this notion of p-typestates, and a p-typestate property automaton, to represent a p-typestate property. We present a dependent type system for these parameterized typestates and present a simple typestate-oriented language incorporating p-typestates. Further, typechecking such rich p-typestate properties require a programmer to provide invariants for loops and recursive structures. Unfortunately, providing these invariants is a non-trivial task even for expert programmers. To solve this problem, we present a simple and novel loop invariant calculation approach for Pressburger de nable systems. We encode a number of real-world programs in our dependently-typed language and use p-typestates type system, and loop-invariant calculation to verify several rich properties which are not amenable to regular typestate analysis and verification. Finally we discuss several possible extensions of our thesis along both these directions},
+  pdf = "phd_thesis.pdf",
+  abbr = "Thesis"
 }
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.,},
-  volume={17},
-  pages={549--560},
-  year={1905}
+
+@article{DBLP:journals/corr/abs-1712-08753,
+  author    = {Ashish Mishra and
+               Deepak D'Souza and
+               Y. N. Srikant},
+  title     = {Presburger-Definable Parameterized Typestates},
+  journal   = {CoRR},
+  volume    = {abs/1712.08753},
+  year      = {2017},
+  url       = {http://arxiv.org/abs/1712.08753},
+  eprinttype = {arXiv},
+  eprint    = {1712.08753},
+  timestamp = {Tue, 09 Apr 2019 14:10:10 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1712-08753.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  arxiv = {1712.08753v1},
+  abstract = {Typestates are good at capturing dynamic states of a program as compared to normal types that can capture static structural
+properties of data and program. Although useful, typestates are suitable only for specifying and verifying program properties defined using
+finite-state abstractions. Many useful dynamic properties of programs
+are not finite-state definable. To address these issues, we introduce parameterized typestates (p-typestates). p-typestates associate a logical
+property with each state of regular typestate, thereby allowing specification of properties beyond finite-state abstractions. We present a dependent type system to express and verify p-typestate properties and
+a typestate-oriented core programming language incorporating these dependent types. Automatic inductive type-checking of p-typestate properties usually requires a programmer to provide loop invariants as annotations. Here we propose a way to calculate loop invariants automatically,
+using loop acceleration techniques for Presburger definable transition
+systems.},
+abbr = {ArXiv}
 }
 
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
+@unpublished{dsecoop17,
+title= {Analysis and verification of rich typestate properties for complex programs},
+author = {Ashish Mishra and Y. N. Srikant},
+year = {2017},
+note= {ECOOP 2017 Doctoral Symposium},
+URL= {https://2017.ecoop.org/track/ecoop-2017-Doctoral-Symposium},
+pdf = {ecoop17.pdf},
+abstract = {Typestates are useful programming language concepts to model software protocols. In this thesis we provide programming language based approaches for analysis, checking and verification of rich typestate properties over complex programs. Firstly, we use known typestate analysis approaches to capture crucial API protocol violations in Android applications. The complex control flow semantics of these programs makes the task challenging, while the excessive usage of resources and other APIs by Android makes it important. Secondly, we tackle the expressive limitations associated with typestates, and present a generalized notion of typestate using the expressive power of dependent types. These expressive typestates, which we term as Beyond-Regular Typestate (BR-typestate), are expressive enough to model many important non-regular properties (typestates can only express regular program properties), and yet have decidable type-checking, and even a decidable type-inference in certain cases. We further present a practical typestate oriented, dependently typed language incorporating these BR-typestates and present soundness results about the type system. For both the parts of the work, we create prototype systems to empirically evaluate the concepts discussed.},
+abbr = {ECOOP' 17, DS}
 }
+@INPROCEEDINGS{asynchorny,  author={Mishra, Ashish and Kanade, Aditya and Srikant, Y. N.},  
+booktitle={2016 ACM/IEEE International Conference on Formal Methods and Models for System Design (MEMOCODE)},   title={Asynchrony-aware static analysis of Android applications},   year={2016},  volume={},  number={},  pages={163-172},  
+doi={10.1109/MEMCOD.2016.7797761},
+selected = {true},
+pdf = {memocode16.pdf},
+abbr = {MEMOCODE' 16}
 
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif}
 }
