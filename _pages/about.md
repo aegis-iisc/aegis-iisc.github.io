@@ -25,3 +25,7 @@ I am interested in developing techniques and tools to help developers build reli
 
 Recently, I have worked on developing a component-based program synthesis tool (**Cobalt**) to synthesize 
 correct programs using effectful libraries. Previously, I have worked on designing a domain-specific language (**Morpheus**) with support for rich refinement types to reason about the correctness of effectful Parser Combinator programs. Before that, I also developed static and dynamic program analysis techniques for Android (**AsyncDroid**) and Javascript programs (**Stubbifier**).  
+
+<!-- <span style="color:red"> **I am currently in the job market, preferably in India.** </span> -->
+<font color='red'>**I am currently in the job market, preferably in India.**</font>
+ My statements are as follows: ([CV](assets/pdf/ashish_cv.pdf), [Research statement](assets/pdf/research.pdf), [Teaching statement](assets/pdf/teaching.pdf))
