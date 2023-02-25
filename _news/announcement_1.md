@@ -5,4 +5,4 @@ date: 2023-01-31
 inline: true
 ---
 
-The Stubbifier (Journal of Empirical Software Engineering) paper is also accepted at ICSE' 23, Journal-first track.
+The **Stubbifier** **(EMSE)** paper is also accepted at **ICSE' 23**, Journal-first track.

@@ -5,4 +5,4 @@ date: 2022-12-08
 inline: true
 ---
 
-Attending OOPSLA' 22 in beautiful Auckland, NZ
+Attending **OOPSLA' 22** in beautiful Auckland, NZ
