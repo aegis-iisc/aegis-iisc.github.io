@@ -29,3 +29,4 @@ correct programs using effectful libraries. Previously, I have worked on designi
 <!-- <span style="color:red"> **I am currently in the job market, preferably in India.** </span> -->
 <font color='red'>**I am currently in the job market, preferably in India.**</font>
  My statements are as follows: ([CV](assets/pdf/ashish_cv.pdf), [Research statement](assets/pdf/research.pdf), [Teaching statement](assets/pdf/teaching.pdf))
+ Please drop me an email if you find my work interesting. 
