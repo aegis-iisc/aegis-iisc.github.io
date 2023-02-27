@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Postdoctoral Researcher at Purdue University working with  [Prof Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/). Before this, I worked for a year on Program Analysis for JS with [Prof Frank Tip](http://www.franktip.org/). I did my PhD dissertation on _verifying behavioral properties of complex programs_ at [Indian Institute of Science, India](https://www.csa.iisc.ac.in/) under the guidance of [Prof. Y. N. Srikant](https://drona.csa.iisc.ac.in/~srikant/).
+I am a Postdoctoral Researcher at Purdue University working with wonderful [Prof Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/). Before this, I worked for a year on Program Analysis for JS with [Prof Frank Tip](http://www.franktip.org/). I did my PhD dissertation on _verifying behavioral properties of complex programs_ at [Indian Institute of Science, India](https://www.csa.iisc.ac.in/) under the guidance of [Prof. Y. N. Srikant](https://drona.csa.iisc.ac.in/~srikant/).
   
 
 I am interested in developing techniques and tools to help developers build reliable, secure and efficient Software. In this context, I am especially interested in building program analysis and verification tools, designing programming languages, and developing automated program synthesis techniques for programs with effects, dynamic features and asynchronous semantics.
@@ -28,5 +28,5 @@ correct programs using effectful libraries. Previously, I have worked on designi
 
 <!-- <span style="color:red"> **I am currently in the job market, preferably in India.** </span> -->
 <font color='red'>**I am currently in the job market, preferably in India.**</font>
- My statements are as follows: ([CV](assets/pdf/ashish_cv.pdf), [Research statement](assets/pdf/research.pdf), [Teaching statement](assets/pdf/teaching.pdf))
+ My statements are as follows: ([CV](assets/pdf/ashish_cv.pdf), [Research statement](assets/pdf/research.pdf), [Teaching statement](assets/pdf/teaching.pdf)).
  Please drop me an email if you find my work interesting. 
