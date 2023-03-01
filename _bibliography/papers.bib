@@ -32,10 +32,22 @@
 @inproceedings{morpheus,
   title={Morpheus: Automated Safety Verification of Data-dependent Parser Combinator Program},
   author={Ashish Mishra and Suresh Jagannathan},
-  booktitle = {Under Submission, Arxiv},
-
-  year={2021},
-  abbr = {ArXiv}
+  booktitle = {In-Submission},
+  abstract = {Parser combinators are a well-known mechanism used for the compositional construction of parsers, and
+have shown to be particularly useful in writing parsers for rich grammars with data-dependencies and global
+state. Verifying applications written using them, however, has proven to be challenging in large part because
+of the inherently effectful nature of the parsers being composed and the difficulty in reasoning about the
+arbitrarily rich data-dependent semantic actions that can be associated with parsing actions. In this paper,
+we address these challenges by defining a parser combinator framework called Morpheus equipped with
+abstractions for defining composable effects tailored for parsing and semantic actions, and a rich specification
+language used to define safety properties over the constituent parsers comprising a program. Even though its
+abstractions yield many of the same expressivity benefits as other parser combinator systems, Morpheus is
+carefully engineered to yield a substantially more tractable automated verification pathway. We demonstrate
+its utility in verifying a number of realistic, challenging parsing applications, including several cases that
+involve non-trivial data-dependent relations.},
+  year = {2021},
+  selected = {true},
+  abbr = {In-Submission}
 }
 
 
@@ -142,7 +154,7 @@ abbr = {ECOOP' 17, DS}
 @INPROCEEDINGS{asynchorny,  author={Mishra, Ashish and Kanade, Aditya and Srikant, Y. N.},  
 booktitle={2016 ACM/IEEE International Conference on Formal Methods and Models for System Design (MEMOCODE)},   title={Asynchrony-aware static analysis of Android applications},   year={2016},  volume={},  number={},  pages={163-172},  
 doi={10.1109/MEMCOD.2016.7797761},
-selected = {true},
+selected = {false},
 pdf = {memocode16.pdf},
 abbr = {MEMOCODE' 16}
 }
