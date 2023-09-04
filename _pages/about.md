@@ -18,13 +18,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Postdoctoral Researcher at Purdue University working with wonderful [Prof Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/). Before this, I worked for a year on Program Analysis for JS with [Prof Frank Tip](http://www.franktip.org/). I did my PhD dissertation on _verifying behavioral properties of complex programs_ at [Indian Institute of Science, India](https://www.csa.iisc.ac.in/) under the guidance of [Prof. Y. N. Srikant](https://drona.csa.iisc.ac.in/~srikant/).
+I am a Postdoctoral Researcher at Purdue University working with wonderful [Prof Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/). Before this, I worked for a year on Program Analysis for JS with [Prof Frank Tip](http://www.franktip.org/). I did my PhD dissertation on _verifying behavioral properties of complex programs_ at [Indian Institute of Science, India](https://www.csa.iisc.ac.in/) under [Prof. Y. N. Srikant](https://drona.csa.iisc.ac.in/~srikant/).
   
+I am interested in developing formal methods for Software Reliability and Synthesis. In this context, I am especially interested in
+developing automated program synthesis techniques and tools ([Cobalt]()); designing richer types ([Coverage Types]()) and domain specific programming languages ([Morpheus]()) and building program analysis and verification tools for JavaScript([Stubbifier]() and Android [AsyncDroid]()).
 
+<!-- 
 I am interested in developing techniques and tools to help developers build reliable, secure and efficient Software. In this context, I am especially interested in building program analysis and verification tools, designing programming languages, and developing automated program synthesis techniques for programs with effects, dynamic features and asynchronous semantics.
 
 Recently, I have worked on developing a component-based program synthesis tool (**Cobalt**) to synthesize 
-correct programs using effectful libraries. Previously, I have worked on designing a domain-specific language (**Morpheus**) with support for rich refinement types to reason about the correctness of effectful Parser Combinator programs. Before that, I also developed static and dynamic program analysis techniques for Android (**AsyncDroid**) and Javascript programs (**Stubbifier**).  
+correct programs using effectful libraries. Previously, I have worked on designing a domain-specific language (**Morpheus**) with support for rich refinement types to reason about the correctness of effectful Parser Combinator programs. Before that, I also developed static and dynamic program analysis techniques for Android (**AsyncDroid**) and Javascript programs (**Stubbifier**).   -->
 
 <!-- <span style="color:red"> **I am currently in the job market, preferably in India.** </span> -->
 <font color='red'>**I am currently in the job market, preferably in India.**</font>
