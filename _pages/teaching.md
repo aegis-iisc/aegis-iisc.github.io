@@ -20,7 +20,7 @@ Following are some of the most relevant teaching and mentoring experiences I had
 years as a PhD candidate and later as a postdoctoral researcher.
 
 
-## Teaching Assistant: Programming Languages Design and Implementation, Fall 2016:
+### Teaching Assistant: Programming Languages Design and Implementation, Fall 2016:
 <details>
   <summary>Read more</summary>
 During my PhD at IISc, I had several chances to assist professors in their courses. Fortu-
@@ -46,7 +46,9 @@ at least two students went on to work in programming languages and related field
 PhD thesis.
 </details>
 
-## Instructor: Lambda Calculus at IISs, CSA Summer School 2017: 
+### Instructor: Lambda Calculus at IISs, CSA Summer School 2017: 
+<details>
+  <summary>Read more</summary>
 Another enjoyable
 teaching experience I had involved teaching an undergraduate course on Lambda calculus at
 the yearly CSA Summer School (2017). Approximately 100 undergraduate students attended
@@ -62,8 +64,11 @@ this obviated the requirement of a common programming language. Furthermore, to 
 calculus concrete, I showed instances of Lambda Calculus in their favourite programming lan-
 guages by actually building a few basic programs and showing live examples showcasing the
 power of lambda and finally relating it to Haskell and JS.
+</details>
 
-## Courses I would like to offer for the changing times: 
+### Courses I would like to offer for the changing times: 
+<details>
+  <summary>Read more</summary>
 I have gained some crucial insights regarding the courses and the teaching methodologies throughout my experience, first in the
 Indian academic setting at IISc and later in the US Universities at Northeastern and Purdue.
 For instance, I experienced that it is quintessential to have a good understanding of logic and its
@@ -74,8 +79,11 @@ research, along with other traditional courses like Discrete Structures, Data st
 gorithms, Software Engineering, etc., at the Undergraduate level. At the Graduate level, I will
 like to mix more cutting-edge courses like Programming Languages and Program Synthesis
 with more foundational courses like Software Foundations and Principles of Type Theory.
+</details>
 
-## Working with students: 
+### Working with students: 
+<details>
+  <summary>Read more</summary>
 At Purdue, I gained valuable experience in working with graduate
 students. This came in two forms; first, I implicitly learned from Prof. Suresh Jagannathan
 through his approach to mentoring other lab students and me. There are several important
@@ -95,3 +103,4 @@ students. I have encountered several key limitations and challenges in these tas
 learnt from some of the best mentors and teachers, both implicitly by seeing them work and
 explicitly by working with them. I plan to apply these skills and learning to my core philosophy
 and principle for teaching to achieve the three pedagogical goals I am striving to achieve.
+</details>
