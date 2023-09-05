@@ -1,12 +1,13 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: My teaching statement
 nav: true
 nav_order: 5
 ---
-### Ashish Mishra
+" If you want to master something, teach it. The more you teach, the better you learn. Teaching is a powerful tool to learning." -Richard P. Feynman
+                                                                                        
 Three main goals can best describe my teaching or pedagogical method. These goals are based
 on my experiences, first as a student and later during my experience while TA’ing, teaching and
 working with students as a postdoctoral researcher. These goals are:
@@ -20,7 +21,7 @@ Following are some of the most relevant teaching and mentoring experiences I had
 years as a PhD candidate and later as a postdoctoral researcher.
 
 
-### Teaching Assistant: Programming Languages Design and Implementation, Fall 2016:
+#### Teaching Assistant: Programming Languages Design and Implementation, Fall 2016:
 <details>
   <summary>Read more</summary>
 During my PhD at IISc, I had several chances to assist professors in their courses. Fortu-
@@ -46,7 +47,7 @@ at least two students went on to work in programming languages and related field
 PhD thesis.
 </details>
 
-### Instructor: Lambda Calculus at IISs, CSA Summer School 2017: 
+#### Instructor: Lambda Calculus at IISs, CSA Summer School 2017: 
 <details>
   <summary>Read more</summary>
 Another enjoyable
@@ -66,7 +67,7 @@ guages by actually building a few basic programs and showing live examples showc
 power of lambda and finally relating it to Haskell and JS.
 </details>
 
-### Courses I would like to offer for the changing times: 
+#### Courses I would like to offer for the changing times: 
 <details>
   <summary>Read more</summary>
 I have gained some crucial insights regarding the courses and the teaching methodologies throughout my experience, first in the
@@ -81,7 +82,7 @@ like to mix more cutting-edge courses like Programming Languages and Program Syn
 with more foundational courses like Software Foundations and Principles of Type Theory.
 </details>
 
-### Working with students: 
+#### Working with students: 
 <details>
   <summary>Read more</summary>
 At Purdue, I gained valuable experience in working with graduate
