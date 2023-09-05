@@ -19,7 +19,10 @@ and giving meaningful feedback.
 Following are some of the most relevant teaching and mentoring experiences I had during my
 years as a PhD candidate and later as a postdoctoral researcher.
 
+
 ## Teaching Assistant: Programming Languages Design and Implementation, Fall 2016:
+<details>
+  <summary>Read more</summary>
 During my PhD at IISc, I had several chances to assist professors in their courses. Fortu-
 nately, the TA’ing involved not only assessing the assignments and helping in designing exam
 questions but also occasionally involved designing and teaching crucial topics I learned during
@@ -41,6 +44,7 @@ mid-term and full-term examinations) using interesting programming problems from
 standard Haskell resources. One of the satisfactory experiences for me came from the fact that
 at least two students went on to work in programming languages and related fields for their
 PhD thesis.
+</details>
 
 ## Instructor: Lambda Calculus at IISs, CSA Summer School 2017: 
 Another enjoyable
