@@ -46,6 +46,12 @@ layout: default
             {%- include news.html %}
           {%- endif %}
 
+          <!-- Services -->
+          {% if page.services -%}
+            <h2><a href="{{ '/services/' | relative_url }}" style="color: inherit;">news</a></h2>
+            {%- include services.html %}
+          {%- endif %}
+
           <!-- Selected papers -->
           {% if page.selected_papers -%}
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
