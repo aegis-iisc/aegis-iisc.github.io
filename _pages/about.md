@@ -17,6 +17,8 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+ <font color='red'>Incoming assistant professor in the Computer Science department at IIT Hyderabad.  </font>
+
 
 I am a Postdoctoral Researcher at Purdue University working with wonderful [Prof Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/). Before this, I worked for a year on Program Analysis for JS with [Prof Frank Tip](http://www.franktip.org/). I did my PhD dissertation on _verifying behavioral properties of complex programs_ at [Indian Institute of Science, India](https://www.csa.iisc.ac.in/) under [Prof. Y. N. Srikant](https://drona.csa.iisc.ac.in/~srikant/).
   
