@@ -17,7 +17,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-### About
+#### About
 Starting March 2024, I am an Assistant Professor of Computer Science at [IIT Hyderabad](https://cse.iith.ac.in)
 
 I am a Postdoctoral Researcher at Purdue University working with wonderful [Prof Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/). Before this, I worked for a year on Program Analysis for JS with [Prof Frank Tip](http://www.franktip.org/). I did my PhD dissertation on _verifying behavioral properties of complex programs_ at [Indian Institute of Science, India](https://www.csa.iisc.ac.in/) under [Prof. Y. N. Srikant](https://drona.csa.iisc.ac.in/~srikant/).
@@ -26,14 +26,14 @@ I am interested in developing formal methods for software reliability and synthe
 
 developing automated program synthesis techniques and tools ([Cobalt](https://aegis-iisc.github.io/assets/pdf/OOPSLA23.pdf)); designing richer types a([Coverage Types](https://aegis-iisc.github.io/assets/pdf/poirotpreprint.pdf)) and domain specific programming languages ([Morpheus](https://arxiv.org/abs/2305.07901v1)) and building program analysis and verification tools for JavaScript([Stubbifier](https://aegis-iisc.github.io/assets/pdf/JESE.pdf)).
 
-  ### Research Interests
+#### Research Interests
 
 -   Program Synthesis: Scalable Synthesis using Deductive Reasoning; Synthesis for Program Repair; Synthesis in novel domains; Neural+Symbolic (NeuroSymbolic) Synthesis.
 -   Automated Program Verification: Higher-Order, Effectful Program Verification; Refinement Type Systems for under-approximate reasoning; Hybrid Program Analysis for JS; 
 Static Analysis for Asynchronous programs. 
 -   Functional Programming: Dependent Types, DSLs.
   
-  ### Teaching  (New course this Fall)
+#### Teaching  (New course this Fall)
 
 -   Fall'24: [TBA: Program Synthesis]()
 
