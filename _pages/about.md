@@ -22,9 +22,7 @@ Starting March 2024, I am an Assistant Professor of Computer Science at [IIT Hyd
 
 I am a Postdoctoral Researcher at Purdue University working with wonderful [Prof Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/). Before this, I worked for a year on Program Analysis for JS with [Prof Frank Tip](http://www.franktip.org/). I did my PhD dissertation on _verifying behavioral properties of complex programs_ at [Indian Institute of Science, India](https://www.csa.iisc.ac.in/) under [Prof. Y. N. Srikant](https://drona.csa.iisc.ac.in/~srikant/).
 
-I am interested in developing formal methods for software reliability and synthesis. In this context, I am especially interested in
-
-developing automated program synthesis techniques and tools ([Cobalt](https://aegis-iisc.github.io/assets/pdf/OOPSLA23.pdf)); designing richer types a([Coverage Types](https://aegis-iisc.github.io/assets/pdf/poirotpreprint.pdf)) and domain specific programming languages ([Morpheus](https://arxiv.org/abs/2305.07901v1)) and building program analysis and verification tools for JavaScript([Stubbifier](https://aegis-iisc.github.io/assets/pdf/JESE.pdf)).
+I am interested in developing formal methods for software reliability and synthesis. In this context, I am especially interested in developing automated program synthesis techniques and tools ([Cobalt](https://aegis-iisc.github.io/assets/pdf/OOPSLA23.pdf)); designing richer types a([Coverage Types](https://aegis-iisc.github.io/assets/pdf/poirotpreprint.pdf)) and domain specific programming languages ([Morpheus](https://arxiv.org/abs/2305.07901v1)) and building program analysis and verification tools for JavaScript([Stubbifier](https://aegis-iisc.github.io/assets/pdf/JESE.pdf)).
 
 #### Research Interests
 
@@ -55,4 +53,5 @@ correct programs using effectful libraries. Previously, I have worked on designi
 
 My statements are as follows: ([CV](assets/pdf/ashish_cv.pdf), [Research statement](assets/pdf/research.pdf), [Teaching statement](assets/pdf/teaching.pdf)).-->
 
-Please drop me an email if you find my work interesting.
+**I am looking for both Masters and PhD student(s) to work with me. 
+Please drop me an email if you find the work interesting.**
