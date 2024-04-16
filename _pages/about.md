@@ -28,9 +28,9 @@ developing automated program synthesis techniques and tools ([Cobalt](https://ae
 
 #### Research Interests
 
--   Program Synthesis: Scalable Synthesis using Deductive Reasoning; Synthesis for Program Repair; Synthesis in novel domains; Neural+Symbolic (NeuroSymbolic) Synthesis.
--   Automated Program Verification: Higher-Order, Effectful Program Verification; Refinement Type Systems for under-approximate reasoning; Hybrid Program Analysis for JS; 
-Static Analysis for Asynchronous programs. 
+-   Program Synthesis: Scalable Synthesis; Deductive Reasoning; Synthesis+Program Repair; Synthesis in novel domains; Neural+Symbolic (NeuroSymbolic) Synthesis.
+-   Automated Program Verification: Higher-Order+Effects; Under-approximate Reasoning; Incorrectness Logics; Hybrid Program Analysis for JS; 
+Static Analysis for Asynchronous Programs. 
 -   Functional Programming: Dependent Types, DSLs.
   
 #### Teaching  (New course this Fall)
