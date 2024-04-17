@@ -6,8 +6,11 @@ description: My teaching statement
 nav: true
 nav_order: 5
 ---
-" If you want to master something, teach it. The more you teach, the better you learn. Teaching is a powerful tool to learning." -Richard P. Feynman
-                                                                                        
+" If you want to master something, teach it. The more you teach, the better you learn. Teaching is a powerful tool to learning." - Richard P. Feynman
+
+### New Course Fall '24
+-   Fall'24: [TBA: Program Synthesis]()
+<!--                                                                                         
 Three main goals can best describe my teaching or pedagogical method. These goals are based
 on my experiences, first as a student and later during my experience while TA’ing, teaching and
 working with students as a postdoctoral researcher. These goals are:
@@ -104,4 +107,4 @@ students. I have encountered several key limitations and challenges in these tas
 learnt from some of the best mentors and teachers, both implicitly by seeing them work and
 explicitly by working with them. I plan to apply these skills and learning to my core philosophy
 and principle for teaching to achieve the three pedagogical goals I am striving to achieve.
-</details>
+</details> -->
