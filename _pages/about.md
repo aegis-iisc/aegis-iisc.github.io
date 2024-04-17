@@ -12,6 +12,7 @@ profile:
     <p>Office: C-214/G, Dept. of Computer Science,</p>
     <p>IIT Hyderabad,</p>
     <p>Kandi, Telangana 502284</p>
+    <p>email: <lastname><firstname>@cse.iith.ac.in</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
