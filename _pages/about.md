@@ -12,7 +12,7 @@ profile:
     <p>Office: C-214/G, Dept. of Computer Science,</p>
     <p>IIT Hyderabad,</p>
     <p>Kandi, Telangana 502284</p>
-    <p>email: &ltlastname&gt&ltfirstname&gt@cse.iith.ac.in</p>
+    <i>email: mishraashish@cse.iith.ac.in</i>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
