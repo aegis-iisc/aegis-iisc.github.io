@@ -33,6 +33,11 @@ Static Analysis for Asynchronous Programs.
 
 -   Fall'24: [TBA: Program Synthesis]()
 
+
+#### Blog 
+I try to write sometimes, on any topic which comes across my mind.
+[My Ideas](https://augustashish.wordpress.com/)
+
 <!--
 
 I am interested in developing techniques and tools to help developers build reliable, secure and efficient Software. In this context, I am especially interested in building program analysis and verification tools, designing programming languages, and developing automated program synthesis techniques for programs with effects, dynamic features and asynchronous semantics.
