@@ -43,6 +43,25 @@ My background is in Formal Methods and Programming Languages. My research views 
 -   Fall'24: [TBA: Program Synthesis]()
 
 
+
+#### Some Representative Research Projects
+
+Below are some of the research projects pursued in our group, besides these, there are several research ideas and directions under exploration:
+
+- ##### Type-Based Program Synthesis.
+
+
+- ##### Verification of Higher-Order Functional Programs/Parser Verification.
+
+
+- ##### Type-based verification of Test Input Generators/ Sound Under-approximate reasoning of Programs.
+
+
+- ##### Neuro-Symbolic Program Synthesis.
+
+
+- ##### Synthesis in Novel Domains.
+
 #### Blog 
 I try to write sometimes, on any topic which comes across my mind.
 [My Ideas](https://augustashish.wordpress.com/)
