@@ -36,7 +36,7 @@ My background is in Formal Methods and Programming Languages. My research views 
 	- Static Analysis for Asynchronous Programs.
 
 - **Functional Programming**:
-	-  Dependent Types, DSLs.
+	-  Dependent and Refinement Types, DSLs.
   
 #### Teaching 
 
