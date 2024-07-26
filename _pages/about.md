@@ -32,35 +32,16 @@ My background is in Formal Methods and Programming Languages. My research views 
 - **Automated Program Verification**: 
 	- Higher-Order+Effects; 
 	- Under-approximate Reasoning; Incorrectness Logics; 
-	-  Hybrid Program Analysis for JS;
-	 - Static Analysis for Asynchronous Programs.
+	- Hybrid Program Analysis for JS;
+	- Static Analysis for Asynchronous Programs.
 
 - **Functional Programming**:
 	-  Dependent Types, DSLs.
   
-#### Teaching  (New course this Fall)
+#### Teaching 
 
--   Fall'24: [TBA: Program Synthesis]()
+-   Fall'24: [CS5733 Program Synthesis](/cs5733/)
 
-
-
-#### Some Representative Research Projects
-
-Below are some of the research projects pursued in our group, besides these, there are several research ideas and directions under exploration:
-
-- ##### Type-Based Program Synthesis.
-
-
-- ##### Verification of Higher-Order Functional Programs/Parser Verification.
-
-
-- ##### Type-based verification of Test Input Generators/ Sound Under-approximate reasoning of Programs.
-
-
-- ##### Neuro-Symbolic Program Synthesis.
-
-
-- ##### Synthesis in Novel Domains.
 
 #### Blog 
 I try to write sometimes, on any topic which comes across my mind.
