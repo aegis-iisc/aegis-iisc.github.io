@@ -26,26 +26,28 @@ My background is in Formal Methods and Programming Languages. My research views 
 
 - **Program Synthesis**: 
 	- Scalable Synthesis; Deductive Reasoning; 
-	- Synthesis+Program Repair; Synthesis in novel domains; 
+	- Synthesis+Program Repair; 
+  - Synthesis in novel domains; 
 	- Neural+Symbolic (NeuroSymbolic) Synthesis.
 
 - **Automated Program Verification**: 
-	- Higher-Order+Effects; 
+	- Automated Reasoning for Higher-Order Effects; 
 	- Under-approximate Reasoning; Incorrectness Logics; 
 	- Hybrid Program Analysis for JS;
 	- Static Analysis for Asynchronous Programs.
 
 - **Functional Programming**:
 	-  Dependent and Refinement Types, DSLs.
+  -  Refinement Types inference.
   
 #### Teaching 
 
 -   Fall'24: [CS5733 Program Synthesis](/cs5733/)
 
-
+<!-- 
 #### Blog 
 I try to write sometimes, on any topic which comes across my mind.
-[My Ideas](https://augustashish.wordpress.com/)
+[My Ideas](https://augustashish.wordpress.com/) -->
 
 <!--
 
