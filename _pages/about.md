@@ -25,17 +25,15 @@ My background is in Formal Methods and Programming Languages. My research views 
 #### Research Interests
 
 - **Program Synthesis**: 
-	- Scalable Synthesis; Deductive Reasoning; 
-	- Synthesis+Program Repair; 
-  - Synthesis in novel domains; 
-	- Neural+Symbolic (NeuroSymbolic) Synthesis.
+	- Scalable Deductive Synthesis;
+	- Synthesis for Program Repair; 
+  - Neural+Symbolic (NeuroSymbolic) Synthesis.
 
 - **Automated Program Verification**: 
-	- Automated Reasoning for Higher-Order Effects; 
+	- Effects and Higher-Order programs; 
 	- Under-approximate Reasoning; Incorrectness Logics; 
-	- Hybrid Program Analysis for JS;
-	- Static Analysis for Asynchronous Programs.
-
+	- Program Analysis
+  
 - **Functional Programming**:
 	-  Dependent and Refinement Types, DSLs.
   -  Refinement Types inference.
