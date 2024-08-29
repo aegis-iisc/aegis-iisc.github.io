@@ -67,5 +67,5 @@ correct programs using effectful libraries. Previously, I have worked on designi
 
 My statements are as follows: ([CV](assets/pdf/ashish_cv.pdf), [Research statement](assets/pdf/research.pdf), [Teaching statement](assets/pdf/teaching.pdf)).-->
 
-**I am looking for both Masters and PhD student(s) to work with me. 
+**I am looking for PhD/M.Tech/B.Tech students to work with me. 
 Please drop me an email if you find the work interesting.**
