@@ -1,3 +1,12 @@
+---
+layout: page
+permalink: /projectscs5733/
+title: Some feasible Project Ideas, based on earlier Courses
+description: CS5733 Program Synthesis, Class Project Ideas
+nav: false
+nav_order: 6
+---
+
 Here are some project ideas, roughly in the order of increasing difficulty / scope. For all projects that involve applying synthesis in a new domain, the *default* is to use an existing synthesis framework such as Sketch, Rosette, or PROSE, but you can also implement a synthesizer from scratch if you feel up to task. 
 
 * Reproduce experimental results from any paper we read.
@@ -8,7 +17,7 @@ Here are some project ideas, roughly in the order of increasing difficulty / sco
   * Add conditionals: Currently Probe has no specific optimizations for learning conditionals, hence it performs poorly on conditional-rich Euphony benchmarks. The idea would be to add EU-Solver style condition abduction to Probe.
 * **Bottom-up enumeration in egg:** Bottom-up enumeration with observation equivalence reduction stores all the programs it has enumerated in program bank. It also discards observationally-equivalent terms, so there is no way to generate more than one program that satisfies all the examples. The idea of this project is to re-implement bottom-up enumeration, but store all enumerated terms in an e-graph, using the efficient [egg library](https://egraphs-good.github.io/). The main challenge is implement an operation that *incrementally* updates the e-graph once a new IO example is added (by splitting the equivalence classes and re-routing all the edges), so that enumeration does not have to start from scratch every time.
 
-* **Extending Tree Automata based-synthesis with constraints** The FTA based synthesis, discussed in the class suffer from expressive limitations. These FTAs cannot model condtraints over trees, e.g. it is not feasible to only express terms of the form f (a, a), f ( f ( b, b), f (b, b)), etc. There is some [recent work](https://dl.acm.org/doi/abs/10.1145/3547622) in extending FTAs with such constraints. The goal of this project will be either to implement this work to develop a SAT Solver using these new FTAs. The idea is discussed in the paper. 
+* **Extending Tree Automata based-synthesis with constraints** The FTA based synthesis, discussed in the class suffer from expressive limitations. These FTAs cannot model condtraints over trees, e.g. it is not feasible to only express terms of the form f (a, a), f ( f ( b, b), f (b, b)), etc. There is some recent work [ECTA](https://dl.acm.org/doi/abs/10.1145/3547622) in extending FTAs with such constraints. The goal of this project will be either to implement this work to develop a SAT Solver using these new FTAs. The idea is discussed in the paper. 
 
 * **Synthesis with ASP** There is some [recent work](https://mgree.github.io/papers/2023popl_asp.pdf) on using Answer-Set Programming (ASP) to synthesize Datalog programs. The goal of this project would be to apply ASP to a different relational domain, e.g. synthesizing context-free grammars (or tree grammars).
 * **Extending LEAP:** [LEAP](https://arxiv.org/abs/2306.09541) is a tool that combines an LLM with Live Programming to help programmers validate AI's code suggestions. You can consider extending LEAP in several ways:
