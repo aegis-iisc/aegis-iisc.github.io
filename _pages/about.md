@@ -9,10 +9,10 @@ profile:
   image: dp.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Office: C-214/G, Dept. of Computer Science,</p>
-    <p>IIT Hyderabad,</p>
-    <p>Kandi, Telangana 502284</p>
-    <i>mishraashish@cse.iith.ac.in</i>
+    <p>Office: CS-606, Dept. of Computer Science,</p>
+    <p>IIT Hyderabad, Kandi</p>
+    <p>Telangana 502284</p>
+    <p>mishraashish@cse.iith.ac.in</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
