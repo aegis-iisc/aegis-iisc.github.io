@@ -12,10 +12,10 @@ profile:
     <p>Office: CS-606, Dept. of Computer Science,</p>
     <p>IIT Hyderabad, Kandi</p>
     <p>Telangana 502284</p>
-    <p>mishraashish@cse.iith.ac.in</p>
+    <p>mishraashish_AT_cse_dot_iith_dot_ac_dot_in</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+#selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 #### About
@@ -25,9 +25,9 @@ My background is in Formal Methods and Programming Languages. My research views 
 #### Research Interests
 
 - **Program Synthesis**: 
-	- Scalable Deductive Synthesis;
-	- Synthesis for Program Repair; 
-  - Neural+Symbolic (NeuroSymbolic) Synthesis.
+	- Scalable Synthesis;
+	- Program Repair; 
+  - NeuroSymbolic Synthesis.
 
 - **Automated Program Verification**: 
 	- Effects and Higher-Order programs; 
@@ -35,19 +35,20 @@ My background is in Formal Methods and Programming Languages. My research views 
 	- Program Analysis
   
 - **Functional Programming**:
-	-  Dependent and Refinement Types, DSLs.
-  -  Refinement Types inference.
-  
-#### Teaching 
+	-  Refinement Types, DSLs.
+  -  Types inference.
 
--   Fall '24: [CS5733 Program Synthesis](/cs5733/)
--   Spring '25 [CS6410 Software Verification]()
--   Spring '25 [CS1023 Software Development Fundamentals]()
+
+
+#### Services
+**PC Member** : ATVA '25, SAS '25, ECCOP '25, ISEC 25.
+**Artifact Evaluation** : PLDI '25, OOPSLA '25.
 
 <!-- 
 #### Blog 
 I try to write sometimes, on any topic which comes across my mind.
 [My Ideas](https://augustashish.wordpress.com/) -->
 
-**I am always on the lookout for PhD/M.Tech/B.Tech students to work with me. 
-Please drop me an email if you find the work interesting.**
+
+*I am always on the lookout for PhD/M.Tech/B.Tech students to work with me. 
+Please drop me an email if you find the work interesting.*

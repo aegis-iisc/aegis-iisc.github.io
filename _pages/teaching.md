@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
+title: teaching
 description: 
 nav: true
 nav_order: 5
@@ -15,7 +15,9 @@ nav_order: 5
 -- Richard P. Feynman
 </div>
 
-### New Course Fall '24
+##### Recent and Upcoming Courses:  
 
-- Fall'24: [CS5733 Program Synthesis](/cs5733/)
+-   Fall '24: [CS5733 Program Synthesis](/cs5733/)
+-   Spring '25 [CS6410 Software Verification](https://github.com/aegis-iisc/2025CS6410)
+-   Spring '25 [CS1023 Software Development Fundamentals]()
 
