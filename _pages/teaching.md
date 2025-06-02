@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
 
-> If you want to master something, teach it. The more you teach, the better you learn. 
+> The more you teach, the better you learn. 
 > Teaching is a powerful tool to learning.
 
 <div align="right">  
