@@ -4,18 +4,19 @@ title: about
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Assistant Professor of Computer Science@IITH.
 
+
 profile:
   align: right
   image: dp.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>Office: CS-606, Dept. of Computer Science,</p>
-    <p>IIT Hyderabad, Kandi</p>
-    <p>Telangana 502284</p>
-    <p>mishraashish_AT_cse_dot_iith_dot_ac_dot_in</p>
+    <p style="font-size: 0.9em;">Office: CS-606, Dept. of Computer Science,</p>
+    <p style="font-size: 0.9em;"> IIT Hyderabad, Kandi</p>
+    <p style="font-size: 0.9em;"> Telangana 502284</p>
+    <p style="font-size: 0.9em;"> lnfn@cse.iith.ac.in</p>
 
 news: true  # includes a list of news items
-#selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 #### About
@@ -42,6 +43,7 @@ My background is in Formal Methods and Programming Languages. My research views 
 
 #### Services
 **PC Member** : ATVA '25, SAS '25, ECCOP '25, ISEC 25.
+
 **Artifact Evaluation** : PLDI '25, OOPSLA '25.
 
 <!-- 
