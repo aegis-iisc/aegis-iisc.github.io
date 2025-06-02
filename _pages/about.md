@@ -40,7 +40,9 @@ My background is in Formal Methods and Programming Languages. My research views 
   
 #### Teaching 
 
--   Fall'24: [CS5733 Program Synthesis](/cs5733/)
+-   Fall '24: [CS5733 Program Synthesis](/cs5733/)
+-   Spring '25 [CS6410 Software Verification]()
+-   Spring '25 [CS1023 Software Development Fundamentals]()
 
 <!-- 
 #### Blog 
