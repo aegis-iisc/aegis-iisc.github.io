@@ -9,8 +9,6 @@ nav_order: 5
 
 
 > The more you teach, the better you learn. 
-> Teaching is a powerful tool to learning.
-
 <div align="right">  
 -- Richard P. Feynman
 </div>
