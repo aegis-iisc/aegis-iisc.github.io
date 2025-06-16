@@ -25,20 +25,29 @@ Starting March 2024, I am an Assistant Professor of Computer Science at [IIT Hyd
 My background is in Formal Methods and Programming Languages. My research views programming languages as having a central place in solving computing problems. I am interested in developing  automated program synthesis techniques and tools ([Cobalt](https://aegis-iisc.github.io/assets/pdf/OOPSLA23.pdf)); designing richer type systems ([Poirot](https://aegis-iisc.github.io/assets/pdf/poirotpreprint.pdf)), and domain specific programming languages ([Morpheus](https://arxiv.org/abs/2305.07901v1)) and building program analysis and verification tools and techniques([Stubbifier](https://aegis-iisc.github.io/assets/pdf/JESE.pdf)).
 #### Research Interests
 
-- **Program Synthesis**: 
-	- Scalable Synthesis;
+<details>
+<summary><b>Program Synthesis</b></summary>
+
+  - Scalable Synthesis;
 	- Program Repair; 
   - NeuroSymbolic Synthesis.
 
-- **Automated Program Verification**: 
-	- Effects and Higher-Order programs; 
+</details>
+<details>
+<summary><b>Automated Program Verification</b></summary>
+
+  - Effects and Higher-Order programs; 
 	- Under-approximate Reasoning; Incorrectness Logics; 
 	- Program Analysis
-  
-- **Functional Programming**:
-	-  Refinement Types, DSLs.
-  -  Types inference.
 
+</details>	
+<details>
+<summary><b>Functional Programming</b></summary>
+
+  -  Refinement Types, DSLs;
+  -  Types inference
+
+</details>	
 
 
 #### Services
