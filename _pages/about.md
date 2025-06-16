@@ -26,31 +26,23 @@ My background is in Formal Methods and Programming Languages. My research views 
 
 #### Research Interests
 
-<details>
-<summary><b>Program Synthesis</b></summary>
-  
-  - Scalable Synthesis;
+- **Program Synthesis**: 
+	- Scalable Synthesis;
 	- Program Repair; 
   - NeuroSymbolic Synthesis.
 
-</details>
-<details>
-<summary><b>Automated Program Verification</b></summary>
-  
+- **Automated Program Verification**: 
+	- Under-approximate Reasoning; Incorrectness Logic; 
   - Effects and Higher-Order programs; 
-	- Under-approximate Reasoning; Incorrectness Logics; 
-	- Program Analysis
-</details>	
-<details>
-<summary><b>Functional Programming</b></summary>
+	- Program Analysis.
   
-  -  Refinement Types, DSLs;
-  -  Types inference
-</details>	
+- **Functional Programming**:
+	-  Refinement Types, DSLs;
+  -  Type Inference.
+
 
 
 #### Services
-
 **PC Member** : ATVA '25, SAS '25, ECCOP '25, ISEC 25.
 
 **Artifact Evaluation** : PLDI '25, OOPSLA '25.
