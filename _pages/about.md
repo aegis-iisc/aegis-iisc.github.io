@@ -34,7 +34,7 @@ My background is in Formal Methods and Programming Languages. My research views 
 - **Automated Program Verification**: 
 	- Under-approximate Reasoning; Incorrectness Logic; 
   - Effects and Higher-Order programs; 
-	- Program Analysis.
+  - Program Analysis.
   
 - **Functional Programming**:
 	-  Refinement Types, DSLs;
