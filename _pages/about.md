@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Assistant Professor of Computer Science@IITH.
+subtitle: <a href='#'>Affiliations</a>. Assistant Professor, Computer Science@IITH.
 
 
 profile:
@@ -10,7 +10,7 @@ profile:
   image: dp.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p style="font-size: 0.9em;">Office: CS-606, Dept. of Computer Science,</p>
+    <p style="font-size: 0.9em;">CS-606, Computer Science,</p>
     <p style="font-size: 0.9em;"> IIT Hyderabad, Kandi</p>
     <p style="font-size: 0.9em;"> Telangana 502284</p>
     <p style="font-size: 0.9em;"> lnfn@cse.iith.ac.in</p>
