@@ -24,7 +24,7 @@ This umbrella project aims to make fundamental contributions towards using Refin
 
  - Verifying properties of higher-order parser combinators using [Morpheus](https://arxiv.org/abs/2305.07901v1).
 
- - Scalable component-based program synthesis over refinement-typed libraries using Novel tree automata representation [Hegel](https://aegis-iisc.github.io/assets/pdf/hegel_draft.pdf).
+ - Scalable component-based program synthesis over refinement-typed libraries using Novel tree automata representation [Hegel]().
 
  - Synthesizing coverage complete programs using Coverage Types [Cobb](https://arxiv.org/abs/2504.06421).
 
