@@ -22,18 +22,20 @@ publisher = {},
 address = {},
 volume = {},
 number = {},
-url = {},
+url = {https://arxiv.org/abs/2508.14614},
 doi = {},
-abstract = {},
+abstract = {Component-based synthesis (CBS) aims to generate loop-free programs from a set of libraries whose methods are annotated with specifications and whose output must satisfy a set of logical constraints, expressed as a query. The effectiveness of a CBS algorithm critically depends on the severity of the constraints imposed by the query. The more exact these constraints are, the sparser the space of feasible solutions. This maxim also applies when we enrich the expressiveness of the specifications affixed to library methods. In both cases, the search must now contend with constraints that may only hold over a small number of the possible execution paths that can be enumerated by a CBS procedure.
+In this paper, we address this challenge by equipping CBS search with the ability to reason about logical similarities among the paths it explores. Our setting considers library methods equipped with refinement-type specifications that enrich ordinary base types with a set of rich logical qualifiers to constrain the set of values accepted by that type. We perform a search over a tree automata variant called Qualified Tree Automata that intelligently records information about enumerated terms, leveraging subtyping constraints over the refinement types associated with these terms to enable reasoning about similarity among candidate solutions as search proceeds, thereby avoiding exploration of semantically similar paths.
+We present an implementation of this idea in a tool called \name, and provide a comprehensive evaluation that demonstrates \name's ability to synthesize solutions to complex CBS queries that go well-beyond the capabilities of the existing state-of-the-art. },
 journal = {},
 month = {},
 articleno = {},
 numpages = {},
 keywords = {},
 pdf  = {},
-arxiv = {},
+arxiv = {https://arxiv.org/abs/2508.14614},
 selected = {false},
-abbr = {Submitted}
+abbr = {Draft}
 }
 
 @misc{posterpwpl,
