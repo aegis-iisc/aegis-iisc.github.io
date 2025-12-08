@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: 
+description: projects
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
@@ -14,10 +14,12 @@ horizontal: false
 
 
 ## Representative Research Projects.
-Our group is involved in several interesting projects across **Programming Languages, Type systems, Program Verification and Synthesis and Neurosymbolic programming.** Below, I list some of the these:
+
+Our group is involved in several interesting projects across **Programming Languages, Type systems, Program Verification and Synthesis, and Neurosymbolic programming/AI.** Below, I list some of the these:
 
 #### Formal Methdos for Verification and Synthesis:
-This umbrella project aims to make fundamental contributions towards using Formal Methods (e.g. Refinement Types) for program verification and synthesis, to aid programers to write correct programs. If you are new to Formal Methods, Galois Inc. gives a very nice recent intro on [**What are Formal Methods?**](https://www.galois.com/what-are-formal-methods)
+
+This umbrella project aims to make fundamental contributions towards using Formal Methods (e.g. Refinement Types) for program verification and synthesis, to aid programers to write correct programs. If you are new to Formal Methods, Galois Inc. gives a very nice recent intro on [What are Formal Methods?](https://www.galois.com/what-are-formal-methods)
 
 
 We are developing novel type systems and domain-specific languages aimed at:
@@ -32,7 +34,8 @@ We are developing novel type systems and domain-specific languages aimed at:
 
 
 ####  Neurosymbolic Programing/ Neurosymbolic AI:
-[**Neurosymbolic AI**](https://neurips.cc/virtual/2022/55804) and [**Neurosymbolic AI**](https://www.centaurinstitute.org/education) are two closely related, promising  areas at the intersection of Programming Languages and AI/ML. We have several projects in this direction combining the power of Formal Methods/PL with the immense potentials of AI/ML.
+
+[Neurosymbolic Programing](https://neurips.cc/virtual/2022/55804) and [Neurosymbolic AI](https://www.centaurinstitute.org/education) are two closely related, promising  areas at the intersection of Programming Languages and AI/ML. We have several projects in this direction combining the power of Formal Methods/PL with the immense potentials of AI/ML.
 
 The common theme in this thread is towards developing ovel NeuroSymbolic techniques and tools to address the limitations of both Neural and Symbolic approaches. 
 
@@ -40,6 +43,7 @@ We are working towards expanding the state-of-the-art in program synthesis, allo
 
 
 #### Neurosymbolic Program Synthesis in X.
+
 This project aims to solve challenging and error-prone programming tasks in various domains using program synthesis. Two of the main works in this area include:
 
  - DUNE: Multi-Modal, NeuroSymbolic Synthesis for Automatic Data Transformation:
@@ -50,5 +54,6 @@ Here is a detailed [list (a bit dated)](https://docs.google.com/spreadsheets/d/1
 
 
 ####  Trustworthy Concurrency:
+
 Programming and reasoning about concurrent programs is notoriously challenging while, unfixing bugs in them is even harder.
 we aim to develop (semi)automated and scalable reasoning methods and tools to aid programmers write correct concurrent programs, particulalrly in the domain of Concurret programs running on Hardward and compilers allowing weaker memory models that the standard sequential consistency.
