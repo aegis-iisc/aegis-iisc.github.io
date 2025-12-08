@@ -20,15 +20,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 #### About
-Starting March 2024, I am an Assistant Professor of Computer Science at [IIT Hyderabad](https://cse.iith.ac.in). Before, I was a Postdoc at [PurPL](https://purduepl.github.io), Purdue, working with wonderful [Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/). I also worked for an year on Program Analysis for JS with [Frank Tip](http://www.franktip.org/). I did my PhD at [IISc](https://www.csa.iisc.ac.in/), working with [Y. N. Srikant](https://drona.csa.iisc.ac.in/~srikant/).
+Starting March 2024, I am an Assistant Professor of Computer Science at [IIT Hyderabad](https://cse.iith.ac.in), where I am part of ΣλMPL∃ (Simple) Lab. Before, I was a Postdoc at [PurPL](https://purduepl.github.io), Purdue, working with wonderful [Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/). I also worked for an year on Program Analysis for JS with [Frank Tip](http://www.franktip.org/). I did my PhD at [IISc](https://www.csa.iisc.ac.in/), working with [Y. N. Srikant]().
 
-My background is in Formal Methods and Programming Languages. My research views programming languages as having a central place in solving problems. I am interested in developing **scalable and automated** program synthesis techniques ([Cobalt](https://aegis-iisc.github.io/assets/pdf/OOPSLA23.pdf), [Cobb](https://arxiv.org/abs/2504.06421), [Hegel](https://arxiv.org/abs/2508.14614)); designing rich **type systems**, and **domain specific programming languages** ([Poirot](https://aegis-iisc.github.io/assets/pdf/poirotpreprint.pdf), [Morpheus](https://arxiv.org/abs/2305.07901v1)) and building **program analysis and verification** tools and techniques([Stubbifier](https://aegis-iisc.github.io/assets/pdf/JESE.pdf)).
+My background is in Formal Methods and Programming Languages. My research views programming languages as the core machinery for problem solving. I am interested in developing scalable and automated **program synthesis** techniques ([Cobalt](https://aegis-iisc.github.io/assets/pdf/OOPSLA23.pdf), [Cobb](https://arxiv.org/abs/2504.06421), [Hegel](https://arxiv.org/abs/2508.14614)); designing rich **type systems**, and **domain specific programming languages** ([Poirot](https://aegis-iisc.github.io/assets/pdf/poirotpreprint.pdf), [Morpheus](https://arxiv.org/abs/2305.07901v1)) and building **program analysis and verification** tools and techniques([Stubbifier](https://aegis-iisc.github.io/assets/pdf/JESE.pdf)).
 
 #### Research Interests
 
 - **Program Synthesis**: 
-	- Scalable Program Synthesis and Repair; 
-  - Neurosymbolic Program Synthesis.
+	- Type-driven synthesis;
+  - Scalable synthesis and repair; 
+  - Neurosymbolic program synthesis;
+  - Synthesisizing coverage-complete test generators.
 
 - **Automated Program Verification**: 
 	- Under-approximate Reasoning; Incorrectness Logic; 
@@ -46,11 +48,11 @@ My background is in Formal Methods and Programming Languages. My research views 
 **Artifact Evaluation** : PLDI '25, OOPSLA '25.
 
 
-*I am always on the lookout for PhD/M.Tech/B.Tech students to work with me. 
-Please drop me an email if you find the work interesting.*
+*I am always on the lookout for **motivated** PhD/M.Tech/B.Tech students to work with me. 
+Please see the highlights of some of the [projects](/projects/) in our lab, and drop me an email if you find this interesting.*
 
 
 
-#### Blog 
+<!-- #### Blog 
 I try to write sometimes, on any topic which comes across my mind.
-[My Ideas](https://augustashish.wordpress.com/)
+[My Ideas](https://augustashish.wordpress.com/) -->
