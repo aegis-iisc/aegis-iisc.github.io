@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 #### About
-Starting March 2024, I am an Assistant Professor of Computer Science at [IIT Hyderabad](https://cse.iith.ac.in), where I am part of ΣλMPL∃ (Simple) Lab. Before, I was a Postdoc at [PurPL](https://purduepl.github.io), Purdue, working with wonderful [Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/). I also worked for an year on Program Analysis for JS with [Frank Tip](http://www.franktip.org/). I did my PhD at [IISc](https://www.csa.iisc.ac.in/), working with [Y. N. Srikant]().
+Starting March 2024, I am an Assistant Professor of Computer Science at [IIT Hyderabad](https://cse.iith.ac.in), where I am part of <span style="color:red"><b>ΣλMPL∃</b></span> (Simple) Lab. Before, I was a Postdoc at [PurPL](https://purduepl.github.io), Purdue, working with wonderful [Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/). I also worked for an year on Program Analysis for JS with [Frank Tip](http://www.franktip.org/). I did my PhD at [IISc](https://www.csa.iisc.ac.in/), working with [Y. N. Srikant]().
 
 My background is in Formal Methods and Programming Languages. My research views programming languages as the core machinery for problem solving. I am interested in developing scalable and automated **program synthesis** techniques ([Cobalt](https://aegis-iisc.github.io/assets/pdf/OOPSLA23.pdf), [Cobb](https://arxiv.org/abs/2504.06421), [Hegel](https://arxiv.org/abs/2508.14614)); designing rich **type systems**, and **domain specific programming languages** ([Poirot](https://aegis-iisc.github.io/assets/pdf/poirotpreprint.pdf), [Morpheus](https://arxiv.org/abs/2305.07901v1)) and building **program analysis and verification** tools and techniques([Stubbifier](https://aegis-iisc.github.io/assets/pdf/JESE.pdf)).
 
@@ -37,19 +37,20 @@ My background is in Formal Methods and Programming Languages. My research views 
   - Effects and Higher-Order programs; 
   - Program Analysis.
   
-- **Functional Programming**:
+- **Functional Programming and Type Systhems**:
 	-  Refinement Types, DSLs;
   -  Type Inference.
 
+
+<span style="color:red">
+I am always on the lookout for **motivated** PhD/M.Tech/B.Tech students to work with me. 
+Please see the highlights of some of the [projects](/projects/) in our lab, and drop me an email if you find this interesting.</span>
 
 
 #### Services
 **PC Member** : ATVA '25, SAS '25, ECCOP '25, ISEC 25.
 **Artifact Evaluation** : PLDI '25, OOPSLA '25.
 
-
-*I am always on the lookout for **motivated** PhD/M.Tech/B.Tech students to work with me. 
-Please see the highlights of some of the [projects](/projects/) in our lab, and drop me an email if you find this interesting.*
 
 
 
