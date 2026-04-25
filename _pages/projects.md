@@ -28,10 +28,12 @@ We are developing novel type systems and domain-specific languages aimed at:
 
  - Synthesizing coverage-complete programs using Coverage Types [Cobb](https://arxiv.org/abs/2504.06421).
 
+ - Formal Verification using Lean. 
 
 ####  Neurosymbolic Programming/ Neurosymbolic AI:
 
 [Neurosymbolic Programming](https://neurips.cc/virtual/2022/55804) and [Neurosymbolic AI](https://www.centaurinstitute.org/education) are two closely related, promising areas at the intersection of Programming Languages and AI/ML.We have several on-going works in this direction combining the power of Formal Methods/PL with the immense potential of AI/ML.
+
 The common theme in these works is the development of novel NeuroSymbolic techniques and tools to address the limitations of both Neural (AI/ML based) and Symbolic(PL/Formal Method based) approaches. 
 
 We are working towards advancing the state of the art in program synthesis, enabling the synthesis of efficient, robust, and verified programs for challenging low-level, safety-critical programming tasks.
@@ -52,3 +54,6 @@ To understand the flavor of things here, this is a detailed [list (a bit dated)]
 
 Programming and reasoning about concurrent programs is notoriously challenging, while fixing bugs in them is even harder.
 We aim to develop (semi)automated and scalable reasoning methods and tools to aid programmers in writing correct concurrent programs, particularly in domains where concurrent programs run on hardware and compilers that support weaker memory models than the standard sequential consistency.
+
+
+

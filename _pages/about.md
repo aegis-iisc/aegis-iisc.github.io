@@ -40,6 +40,7 @@ My background is in Formal Methods and Programming Languages. My research views 
 - **Functional Programming and Type Systhems**:
 	-  Refinement Types, DSLs;
   -  Type Inference.
+  - <span style="color:red"> Formal Verification using Lean</span>
 
 
 <span style="color:red">
