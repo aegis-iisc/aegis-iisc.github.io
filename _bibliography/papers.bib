@@ -24,6 +24,28 @@
       selected = {true},
       abbr = {Preprint}
 }
+
+@article{10.1145/3763158,
+author = {LaFontaine, Patrick and Zhou, Zhe and Mishra, Ashish and Jagannathan, Suresh and Delaware, Benjamin},
+title = {We’ve Got You Covered: Type-Guided Repair of Incomplete Input Generators},
+year = {2025},
+issue_date = {October 2025},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {9},
+number = {OOPSLA2},
+url = {https://doi.org/10.1145/3763158},
+doi = {10.1145/3763158},
+abstract = {Property-based testing (PBT) is a popular technique for automatically testing semantic properties of a program, specified as a pair of pre- and post-conditions. The efficacy of this approach depends on being able to quickly generate inputs that meet the precondition, in order to maximize the set of program behaviors that are probed. For semantically rich preconditions, purely random generation is unlikely to produce many valid inputs; when this occurs, users are forced to manually write their own specialized input generators. One common problem with handwritten generators is that they may be incomplete, i.e., they are unable to generate some values meeting the target precondition. This paper presents a novel program repair technique that patches an incomplete generator so that its range includes every valid input. Our approach uses a novel enumerative synthesis algorithm that leverages the recently developed notion of coverage types to characterize the set of missing test values as well as the coverage provided by candidate repairs. We have implemented a repair tool for OCaml generators, called Cobb, and used it to repair a suite of benchmarks drawn from the PBT literature.},
+journal = {Proc. ACM Program. Lang.},
+month = oct,
+articleno = {380},
+numpages = {29},
+keywords = {automated program repair, coverage types, property-based testing},
+selected = {true},
+abbr = {OOPSLA '25}
+}
+
 @misc{lafontaine2025wevegotcoveredtypeguided,
       title={We've Got You Covered: Type-Guided Repair of Incomplete Input Generators}, 
       author={Patrick LaFontaine and Zhe Zhou and Ashish Mishra and Suresh Jagannathan and Benjamin Delaware},
