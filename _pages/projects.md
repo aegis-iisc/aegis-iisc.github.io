@@ -115,9 +115,11 @@ Our group is involved in several interesting projects across **Programming Langu
       <div class="card-tags">
         <span class="card-tag">Formal Methods</span>
         <span class="card-tag">Lean</span>
+        <span class="card-tag">Refinement Types</span>
+        <span class="card-tag">Coverage Types</span>
       </div>
       <h3>Formal Methods for Verification and Synthesis</h3>
-      <p>This umbrella project aims to make fundamental contributions to the use of Formal Methods (e.g., Refinement Types) to aid programmers in writing correct and safe programs.</p>
+      <p>This umbrella project aims to make fundamental contributions to the use of Formal Methods (e.g., Refinement Types) to aid programmers in writing correct, safe and coverage complete programs.</p>
       <ul>
         <li><a href="https://aegis-iisc.github.io/assets/pdf/poirotpreprint.pdf">Coverage Types</a>: Under-approximate properties.</li>
         <li><a href="https://arxiv.org/abs/2305.07901v1">Morpheus</a>: Higher-order parser combinators.</li>
@@ -135,7 +137,7 @@ Our group is involved in several interesting projects across **Programming Langu
     <div class="card-content">
       <div class="card-tags">
         <span class="card-tag">AI/ML</span>
-        <span class="card-tag">Logic</span>
+        <span class="card-tag">Formal Logic</span>
       </div>
       <h3>Neurosymbolic Programming / AI</h3>
       <p>Working at the intersection of Programming Languages and ML to address the limitations of both Neural and Symbolic approaches. We aim to synthesize efficient, robust, and verified programs for safety-critical tasks.</p>
@@ -150,11 +152,11 @@ Our group is involved in several interesting projects across **Programming Langu
     </div>
     <div class="card-content">
       <div class="card-tags">
-        <span class="card-tag">Networking</span>
-        <span class="card-tag">Data Transform</span>
+        <span class="card-tag">Synthesis for Networking</span>
+        <span class="card-tag">Synthesis for Data Transform</span>
       </div>
       <h3>Neurosymbolic Program Synthesis for X</h3>
-      <p>Solving challenging, error-prone programming tasks across various domains using multi-modal synthesis.</p>
+      <p>Solving challenging, error-prone programming tasks across various domains using verified program synthesis using a combination of PL and AI/ML techniques.</p>
       <ul>
         <li><b>DUNE</b>: NeuroSymbolic Synthesis for Automatic Data Transformation.</li>
         <li><b>TANTRA</b>: Correct low-level network configurations.</li>
@@ -179,6 +181,3 @@ Our group is involved in several interesting projects across **Programming Langu
   </div>
 
 </div>
-
-projects.md
-Displaying projects.md.
