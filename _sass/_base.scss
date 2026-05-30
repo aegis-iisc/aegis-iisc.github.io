@@ -724,3 +724,13 @@ progress {
      display: block;
      height: inherit;
  }
+
+ /* Allow publication abbreviation badges to wrap into multiple lines */
+.abbr {
+  .badge, abbr {
+    white-space: normal !important;
+    word-break: break-word;
+    text-align: center;
+    display: inline-block;
+  }
+}
