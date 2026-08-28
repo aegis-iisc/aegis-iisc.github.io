@@ -89,7 +89,24 @@ Our group is involved in several interesting projects across **Programming Langu
   .card-content li {
     margin-bottom: 0.3rem;
   }
-  
+
+  /* Expandable section styles */
+  .project-details {
+    margin-top: 0.25rem;
+  }
+  .project-details summary {
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: var(--global-theme-color);
+    user-select: none;
+    outline: none;
+    margin-bottom: 0.5rem;
+  }
+  .project-details summary:hover {
+    text-decoration: underline;
+  }
+
   /* Dark mode adjustments using alfolio's native variables */
   html[data-theme='dark'] .custom-project-card {
     box-shadow: 0 4px 15px rgba(255,255,255,0.02);
@@ -129,23 +146,27 @@ Our group is involved in several interesting projects across **Programming Langu
     </div>
   </div>
 
-  <!-- Section 2: Neurosymbolic AI -->
+  <!-- Section 2: Trustworthy AI -->
   <div class="custom-project-card">
     <div class="card-img-container">
-      <img src="{{ '/assets/img/ns-project.png' | relative_url }}" alt="Neurosymbolic AI" onerror="this.src='https://placehold.co/600x400?text=Neurosymbolic+AI'">
+      <img src="{{ '/assets/img/ai-guardrails-project.png' | relative_url }}" alt="Trustworthy AI" onerror="this.src='https://placehold.co/600x400?text=Trustworthy+AI'">
     </div>
     <div class="card-content">
       <div class="card-tags">
-        <span class="card-tag">AI/ML</span>
-        <span class="card-tag">Formal Logic</span>
+        <span class="card-tag">Trustworthy AI</span>
+        <span class="card-tag">Neurosymbolic AI</span>
+        <span class="card-tag">Formal Verification</span>
+        <span class="card-tag">Guardrailing</span>
       </div>
-      <h3>Neurosymbolic Programming / AI</h3>
-      <p>Working at the intersection of Programming Languages and ML to address the limitations of both Neural and Symbolic approaches. We aim to synthesize efficient, robust, and verified programs for safety-critical tasks.</p>
-      <p><small><i>Check out these resources on <a href="https://neurips.cc/virtual/2022/55804">Neurosymbolic Programming</a> and <a href="https://www.centaurinstitute.org/education">Neurosymbolic AI</a>.</i></small></p>
+      <h3>Trustworthy AI: Guardrailing & Neuro-Formal Methods</h3>
+      <details class="project-details">
+        <summary>Read full project overview</summary>
+        <p>Bridging the gap between AI/ML and Formal Verification, this project introduces a neuro-symbolic/neuro formal framework that uses formal methods to mathematically guardrail AI systems. By integrating neural architectures (LLMs in particular) with theorem provers like Lean, automated SMT solvers, and symbolic reasoning engines, the system replaces soft probabilistic guardrails with provably correct runtime constraints. This hybrid pipeline continuously validates neural outputs against formally defined safety specifications, effectively preventing hallucinations, logical contradictions, and policy violations in high-stakes domains. Ultimately, it provides a deterministic, mathematically sound foundation for deploying trustworthy AI where empirical evaluation alone is insufficient.</p>
+      </details>
     </div>
   </div>
 
-  <!-- Section 3: Synthesis for X -->
+  <!-- Section 3: Symbolic and Neurosymbolic Program Synthesis -->
   <div class="custom-project-card">
     <div class="card-img-container">
       <img src="{{ '/assets/img/sync-project.png' | relative_url }}" alt="Program Synthesis for X" onerror="this.src='https://placehold.co/600x400?text=Synthesis+for+X'">
@@ -155,7 +176,7 @@ Our group is involved in several interesting projects across **Programming Langu
         <span class="card-tag">Synthesis for Networking</span>
         <span class="card-tag">Synthesis for Data Transform</span>
       </div>
-      <h3>Neurosymbolic Program Synthesis for X</h3>
+      <h3>Symbolic and Neurosymbolic Program Synthesis</h3>
       <p>Solving challenging, error-prone programming tasks across various domains using verified program synthesis using a combination of PL and AI/ML techniques.</p>
       <ul>
         <li><b>DUNE</b>: NeuroSymbolic Synthesis for Automatic Data Transformation.</li>
