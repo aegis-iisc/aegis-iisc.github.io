@@ -154,13 +154,12 @@ Our group is involved in several interesting projects across **Programming Langu
     <div class="card-content">
       <div class="card-tags">
         <span class="card-tag">Trustworthy AI</span>
-        <span class="card-tag">Neurosymbolic AI</span>
         <span class="card-tag">Formal Verification</span>
         <span class="card-tag">Guardrailing</span>
       </div>
-      <h3>Trustworthy AI: Guardrailing & Neuro-Formal Methods</h3>
+      <h3>Trustworthy AI: Guardrailing AI & Formal Methods for AI</h3>
       <details class="project-details">
-        <summary>Read full project overview</summary>
+        <summary>Read full project overview</ summary>
         <p>Bridging the gap between AI/ML and Formal Verification, this project introduces a neuro-symbolic/neuro formal framework that uses formal methods to mathematically guardrail AI systems. By integrating neural architectures (LLMs in particular) with theorem provers like Lean, automated SMT solvers, and symbolic reasoning engines, the system replaces soft probabilistic guardrails with provably correct runtime constraints. This hybrid pipeline continuously validates neural outputs against formally defined safety specifications, effectively preventing hallucinations, logical contradictions, and policy violations in high-stakes domains. Ultimately, it provides a deterministic, mathematically sound foundation for deploying trustworthy AI where empirical evaluation alone is insufficient.</p>
       </details>
     </div>
@@ -194,7 +193,6 @@ Our group is involved in several interesting projects across **Programming Langu
     <div class="card-content">
       <div class="card-tags">
         <span class="card-tag">Parallelism</span>
-        <span class="card-tag">Hardware</span>
       </div>
       <h3>Trustworthy Concurrency</h3>
       <p>Programming and reasoning about concurrent programs is notoriously challenging. We develop scalable reasoning methods for hardware and compilers that support weaker memory models than sequential consistency.</p>
